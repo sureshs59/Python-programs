@@ -1,5 +1,4 @@
-# Python-programs
-# Python Coding Examples for Practice
+# Python Programs for Practice
 
 <!-- Feature Image -->
 | ![space-1.jpg](https://dyclassroom.com/image/topic/python/logo.png) | 
@@ -21,8 +20,6 @@ print(type(decimal.Decimal(integer)))
 
 ```
 
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Integer_to_Decimal.png) to view the Code Snapshot
-
 ---
 
 ## 2. Converting an String of Integers into Decimals
@@ -36,10 +33,6 @@ print(type(decimal.Decimal(string)))
 > 12345
 > <class 'decimal.Decimal'>
 
-```
-
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_String_to_Decimal.png) to view the Code Snapshot
-
 ---
 
 ## 3. Reversing a String using an Extended Slicing Technique
@@ -51,10 +44,6 @@ print(string[::-1])
 > gnimmargorP nohtyP
 
 ```
-
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_String_Reversal.png) to view the Code Snapshot
-
----
 
 
 ## 4. Counting Vowels in a Given Word
@@ -71,10 +60,6 @@ print(count)
 > 3
 ```
 
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Vowel_Count.png) to view the Code Snapshot
-
----
-
 ## 5. Counting Consonants in a Given Word
 
 ```python
@@ -89,10 +74,6 @@ print(count)
 > 8
 ```
 
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Consonant_Count.png) to view the Code Snapshot
-
----
-
 
 ## 6. Counting the Number of Occurances of a Character in a String
 
@@ -106,9 +87,6 @@ for letter in word:
 print(count)
 
 > 1
-```
-
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Character_Occurance_Count.png) to view the Code Snapshot
 
 ---
 
@@ -127,10 +105,6 @@ print(', '.join(str(e) for e in fib))
 
 ```
 
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Fibonacci_Series.png) to view the Code Snapshot
-
----
-
 ## 8. Finding the Maximum Number in a List
 
 ```python
@@ -145,10 +119,6 @@ print(maxNum)
 > 125
 
 ```
-
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Max_Number_List.png) to view the Code Snapshot
-
----
 
 ## 9. Finding the Minimum Number in a List
 
@@ -165,10 +135,6 @@ print(minNum)
 
 ```
 
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Max_Number_List.png) to view the Code Snapshot
-
----
-
 
 ## 10. Finding the Middle Element in a List
 
@@ -180,10 +146,6 @@ print(numList[midElement])
 
 > 3
 ```
-
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Middle_Element_List.png) to view the Code Snapshot
-
----
 
 
 ## 11. Converting a List into a String
@@ -198,10 +160,6 @@ print(type(string))
 > PYTHON
 > <class 'str'>
 ```
-
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_List_to_String.png) to view the Code Snapshot
-
----
 
 
 ## 12. Adding Two List Elements Together
@@ -218,10 +176,6 @@ print(res_lst)
 > [5, 7, 9]
 
 ```
-
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_List_Addition.png) to view the Code Snapshot
-
----
 
 ## 13. Comparing Two Strings for Anagrams
 
@@ -256,9 +210,6 @@ else:
 > True
 
 ```
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Palindrome.png) to view the Code Snapshot
-
----
 
 ## 15. Counting the White Spaces in a String
 
@@ -268,10 +219,6 @@ print(string.count(' '))
     
 > 5
 ```
-
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_White_Space_Count.png) to view the Code Snapshot
-
----
 
 ## 16. Counting Digits, Letters, and Spaces in a String
 
@@ -294,10 +241,6 @@ print(len(spaceCount))
 > 2
 ```
 
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Dig_Letter_Space_Count.png) to view the Code Snapshot
-
----
-
 ## 17. Counting Special Characters in a String
 
 ```python
@@ -310,10 +253,6 @@ print(len(count))
     
 > 10
 ```
-
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Special_Char_Count.png) to view the Code Snapshot
-
----
 
 
 ## 18. Removing All Whitespace in a String
@@ -330,10 +269,6 @@ print(result)
 
 ```
 
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Removing_Spaces_In_a_String.png) to view the Code Snapshot
-
----
-
 
 ## 19. Building a Pyramid in Python
 
@@ -348,10 +283,6 @@ for i in range(1, 2*floors, 2):
  *****
 
 ```
-
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Pyramid.png) to view the Code Snapshot
-
----
 
 ## 20. Randomizing the Items of a List in Python
 
@@ -368,17 +299,9 @@ print(lst)
 
 ```
 
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Randomizing_Python_List.png) to view the Code Snapshot
-
----
-
 
 <br>
 <br>
-
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-[![Maintened by - Tanu Nanda Prabhu](https://img.shields.io/badge/Maintained%20by-Tanu%20Nanda%20Prabhu-red)](https://tanu-n-prabhu.github.io/myWebsite.io/)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 
 
